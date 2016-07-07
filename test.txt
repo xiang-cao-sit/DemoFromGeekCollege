@@ -1,2 +1,13 @@
 this is first trial.
-this is the second trial. It will be forked.
+It has already been forked.
+This is iriginally written by xiang from cx1991427.
+
+Second from website. The third change  has been made using command line.
+
+
+
+Try to make fifth change without git pull first.
+
+the fourth change has been made on website.
+fifth change is to git add .    git commit -m"unknown"    git push     
+
